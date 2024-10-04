@@ -1,6 +1,6 @@
 # metaDMM
 
-metaDMM is a tool for generating synthetic DNA reads using a Dirichlet Multinomial distribution. It simulates metagenomic data based on complete bacterial genomes with different concentration parameters (alpha).
+metaDMM is a tool for generating synthetic DNA reads using a Dirichlet Multinomial distribution (DMM for Dirichlet Multinomial Modeling). It simulates metagenomic data based on complete bacterial genomes with different concentration parameters (alpha).
 
 ## Installation
 
