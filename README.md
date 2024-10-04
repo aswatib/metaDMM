@@ -50,6 +50,7 @@ This project is licensed under the [APACHE 2.0 License] (LICENSE).
 ## Acknowledgements
 
 This tool was developed as the next step following the master's thesis on "Exploring Microbial Diversity in Metagenomics".
+
 Development of this tool was assisted by Claude, an AI assistant created by Anthropic.
 
 ## Contact
