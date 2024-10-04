@@ -53,7 +53,4 @@ This tool was developed as the next step following the master's thesis on "Explo
 Development of this tool was assisted by Claude, an AI assistant created by Anthropic.
 
 ## Contact
-
-[Swati Tak Nielsen] - [swtak@proton.me]
-
 Project Link: https://github.com/aswatib/metaDMM
