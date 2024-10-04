@@ -1,6 +1,0 @@
-numpy
-scipy
-pyfaidx
-biopython
-click
-pandas
