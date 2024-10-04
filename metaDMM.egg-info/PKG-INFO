@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: metaDMM
+Version: 1.0.0
+Summary: A tool for generating synthetic DNA reads from complete genomes
+Home-page: https://github.com/aswatib/metaDMM
+Author: Swati Tak Nielsen
+Author-email: swtak@proton.me
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+
+UNKNOWN
+

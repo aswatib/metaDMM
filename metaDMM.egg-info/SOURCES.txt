@@ -1,0 +1,11 @@
+setup.py
+metaDMM/__init__.py
+metaDMM/cli.py
+metaDMM/read_generator.py
+metaDMM/utils.py
+metaDMM.egg-info/PKG-INFO
+metaDMM.egg-info/SOURCES.txt
+metaDMM.egg-info/dependency_links.txt
+metaDMM.egg-info/entry_points.txt
+metaDMM.egg-info/requires.txt
+metaDMM.egg-info/top_level.txt
